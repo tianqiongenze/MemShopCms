@@ -146,7 +146,7 @@ gateway | 8888 | Spring Cloud Gateway
 
 | 主机名               | IP                 | 角色   | CPU/MEM | 磁盘     |
 | -------------------- | ------------------ | ------ | ------- | -------- |
-| kubernetes\-master   | 177\.17\.225\.179 | Master | 2 核 2G | 20G      |
-| kubernetes\-node\-01 | 177\.17\.225\.180 | Node   | 2 核 4G | 20G + 40G      |
-| kubernetes\-node\-02 | 177\.17\.225\.181 | Node   | 2 核 4G | 20G + 40G      |    |
+| kubernetes\-master   | 172\.17\.225\.179 | Master | 2 核 4G | 20G      |
+| kubernetes\-node\-01 | 172\.17\.225\.180 | Node   | 2 核 4G | 20G + 40G      |
+| kubernetes\-node\-02 | 172\.17\.225\.181 | Node   | 2 核 4G | 20G + 40G      |    |
 # MemShopCms
