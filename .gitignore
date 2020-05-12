@@ -16,6 +16,7 @@ target/
 *.ipr
 *.sql
 *.jar
+*.gradle
 /target
 ## JRebel ##
 rebel.xml

@@ -16,9 +16,9 @@ import java.util.Enumeration;
  * Description: 用于设置请求头，传递 Token
  * </p>
  *
- * @author Lusifer
+ * @author Joel
  * @version v1.0.0
- * @date 2019-07-31 00:17:20
+ * @date 2020-04-31 00:17:20
  * @see com.kofjs.memshop.cms.interceptor
  */
 public class FeignRequestInterceptor implements RequestInterceptor {

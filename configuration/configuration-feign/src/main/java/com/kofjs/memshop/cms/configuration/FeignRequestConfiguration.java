@@ -11,9 +11,9 @@ import org.springframework.context.annotation.Configuration;
  * Description:
  * </p>
  *
- * @author Lusifer
+ * @author Joel
  * @version v1.0.0
- * @date 2019-07-31 00:40:11
+ * @date 2020-04-31 00:40:11
  * @see com.kofjs.memshop.cms.configuration
  */
 @Configuration

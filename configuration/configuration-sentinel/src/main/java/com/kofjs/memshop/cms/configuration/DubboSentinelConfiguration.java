@@ -10,9 +10,9 @@ import org.springframework.context.annotation.Configuration;
  * Description: 仅 Dubbo 服务需要该配置，Spring Cloud Alibaba 无需加载该配置
  * </p>
  *
- * @author Lusifer
+ * @author Joel
  * @version v1.0.0
- * @date 2019-08-31 03:00:47
+ * @date 2020-04-31 03:00:47
  * @see com.kofjs.memshop.cms.configuration
  */
 @Configuration
